@@ -28,7 +28,7 @@
 
 ## Background
 
-Technical test, set as part of the application process for a software engineering consultancy. Comes in two parts: CategoriesClient (https://github.com/a5tr0-z0mb13/categories-client) - an [Angular](https://angular.io/) application and CategoriesServer(this). The test was timeboxed to four hours.
+Technical test, set as part of the application process for a software engineering consultancy. Comes in two parts: [CategoriesClient](https://github.com/a5tr0-z0mb13/categories-client) - an [Angular](https://angular.io/) application and CategoriesServer (this). The test was timeboxed to four hours.
 
 ## Requirements
 
