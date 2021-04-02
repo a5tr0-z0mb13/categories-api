@@ -24,6 +24,20 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# CategoriesServer
+
+## Background
+
+Technical test, set as part of the application process for a software engineering consultancy. Comes in two parts: CategoriesClient (https://github.com/a5tr0-z0mb13/categories-client) - an [Angular](https://angular.io/) application and CategoriesServer(this). The test was timeboxed to four hours.
+
+## Requirements
+
+Create an application which will allow at least two users to log in simultaneously and manage items in categories. The categories should be in a hierarchy of potentially infinite depth. The items only require a label. The users should be able to perform standard CRUD, plus if one user makes a change, the other user(s) should see the change (if appropriate) without manually refreshing their web browser. Your solution should follow best practice, and be robust and scalable. We expect to see the same techniques and approaches that you would use in a real project.
+
+## User Journeys
+
+Mark wants to keep track of his belongings. He logs in, and is presented with a list of categories, showing the different levels visually. He adds “Electronics”, and under that, “Televisions”. To this category he adds the items “49-inch LCD”, “40-inch plasma”, and “32-inch CRT”. Sandy logs in and creates “Gaming consoles”, and under this, the items “PS4 Pro”, “XBox One X”, and “Nintendo Switch”. Mark sees Sandy’s entries appear. He edits “Gaming consoles” to sit under “Electronics”. This change appears on Sandy’s screen as soon as he has done it.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
