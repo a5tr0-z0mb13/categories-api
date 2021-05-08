@@ -28,7 +28,7 @@
     "rxjs": "^6.2.2",
     "socket.io": "^2.4.0",
     "sqlite": "^3.0.0",
-    "typeorm": "^0.2.7",
+    "typeorm": "^0.2.25",
     "typescript": "^3.0.1"
   },
   "devDependencies": {
